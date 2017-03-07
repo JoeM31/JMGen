@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JMGenSave projectName="Example Project 1" randomSeed="9662">
+  <scene sceneNumber="0" time="2.0">
+    <shape colour="-5111294" id="1" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+  </scene>
+  <scene sceneNumber="1" time="2.0">
+    <shape colour="-5111294" id="3" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="4" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+  </scene>
+  <scene sceneNumber="2" time="1.0">
+    <shape colour="-5111294" id="5" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="6" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-7644784" id="7" locationx="34.0" locationy="231.0" size="100" type="Triangle">Triangle</shape>
+  </scene>
+  <scene sceneNumber="3" time="1.0">
+    <shape colour="-5111294" id="8" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="9" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-7644784" id="10" locationx="34.0" locationy="231.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-7644784" id="11" locationx="1093.0" locationy="673.0" size="100" type="Square">Square</shape>
+  </scene>
+  <scene sceneNumber="4" time="4.0">
+    <shape colour="-5111294" id="12" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="13" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-7644784" id="14" locationx="34.0" locationy="231.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-7644784" id="15" locationx="1093.0" locationy="673.0" size="100" type="Square">Square</shape>
+    <shape colour="-7644784" id="16" locationx="438.0" locationy="708.0" size="100" type="Circle">Circle</shape>
+  </scene>
+  <scene sceneNumber="5" time="1.0">
+    <shape colour="-12425074" id="17" locationx="578.0" locationy="201.0" size="100" type="Square">Square</shape>
+  </scene>
+  <scene sceneNumber="6" time="3.0">
+    <shape colour="-5111294" id="18" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="19" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-7644784" id="20" locationx="34.0" locationy="231.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-7644784" id="21" locationx="1093.0" locationy="673.0" size="100" type="Square">Square</shape>
+    <shape colour="-7644784" id="22" locationx="438.0" locationy="708.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-12425074" id="23" locationx="579.0" locationy="228.0" size="100" type="Square">Square</shape>
+  </scene>
+  <scene sceneNumber="7" time="2.0">
+    <shape colour="-5111294" id="26" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="27" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-7644784" id="28" locationx="34.0" locationy="231.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-7644784" id="29" locationx="1093.0" locationy="673.0" size="100" type="Square">Square</shape>
+    <shape colour="-7644784" id="30" locationx="438.0" locationy="708.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-12425074" id="31" locationx="579.0" locationy="228.0" size="100" type="Square">Square</shape>
+    <shape colour="-12228794" id="33" locationx="911.0" locationy="303.0" size="100" type="Parallel">Parallel</shape>
+    <shape colour="-12228794" id="35" locationx="172.0" locationy="324.0" size="100" type="Triangle">Triangle</shape>
+  </scene>
+  <scene sceneNumber="8" time="2.0">
+    <shape colour="-5111294" id="36" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="37" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-7644784" id="38" locationx="34.0" locationy="231.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-7644784" id="39" locationx="1093.0" locationy="673.0" size="100" type="Square">Square</shape>
+    <shape colour="-7644784" id="40" locationx="438.0" locationy="708.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-12425074" id="41" locationx="579.0" locationy="228.0" size="100" type="Square">Square</shape>
+    <shape colour="-12228794" id="42" locationx="253.0" locationy="288.0" size="100" type="Parallel">Parallel</shape>
+    <shape colour="-12228794" id="43" locationx="929.0" locationy="316.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-4405714" id="45" locationx="702.0" locationy="479.0" size="100" type="Square">Square</shape>
+  </scene>
+  <scene sceneNumber="9" time="2.0">
+    <shape colour="-5111294" id="46" locationx="441.0" locationy="340.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-3582641" id="47" locationx="760.0" locationy="380.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-7644784" id="48" locationx="34.0" locationy="231.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-7644784" id="49" locationx="1093.0" locationy="673.0" size="100" type="Square">Square</shape>
+    <shape colour="-7644784" id="50" locationx="438.0" locationy="708.0" size="100" type="Circle">Circle</shape>
+    <shape colour="-12425074" id="51" locationx="579.0" locationy="228.0" size="100" type="Square">Square</shape>
+    <shape colour="-12228794" id="52" locationx="253.0" locationy="288.0" size="100" type="Parallel">Parallel</shape>
+    <shape colour="-12228794" id="53" locationx="929.0" locationy="316.0" size="100" type="Triangle">Triangle</shape>
+    <shape colour="-4405714" id="54" locationx="702.0" locationy="479.0" size="100" type="Square">Square</shape>
+    <shape colour="-3769810" id="56" locationx="183.0" locationy="485.0" size="100" type="Square">Square</shape>
+  </scene>
+</JMGenSave>
